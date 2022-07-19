@@ -7,7 +7,7 @@ while True:
 
 coordinates = {}
 c_name = ["x", "y", "z", "a"]
-i = 0  # for loop 1
+i = 0  # for loop 11
 t = 0  # for loop 2
 x = 1
 while i < (2 * d):  # loop 1 - for input coordinates
